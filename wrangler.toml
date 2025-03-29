@@ -1,0 +1,8 @@
+name = "myworker"
+type = "javascript"
+
+[build]
+command = "echo 'No build step required'"
+
+[deploy]
+environment = "production"
